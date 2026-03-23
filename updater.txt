@@ -1,15 +1,33 @@
 {
   "fnmods_update": [
     {
- "version":"1.3",
- "title":"Update Disponible",
+ "version":"1.4",
+ "title":"🚀 Update Disponible 🚀",
  "description":"BY FNMODS
-
-VERSION 1.3
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Nuevo Systema de Actualización 
+🚀 ¡ACTUALIZACIÓN APK EDITOR GO! 🚀
+Esta versión no es solo una mejora, es una herramienta profesional de ingeniería inversa en tu bolsillo.
+💎 Novedades de Impacto
+ * Hex Editor Integrado: Edición binaria directa y precisa. Modifica valores hexadecimales sin salir de la app.( Fase Beta Experimnetal) 
+ * Data Editor (Acceso Total): Ahora puedes editar Databases, SharedPreferences y ver todo lo que la APK guarda internamente.
+   * Nota: Para usarlo, aplica el parche previo e instala la APK. Luego, habilita el permiso de acceso a data/android para liberar todo el potencial.
+💻 Editor de Código
+ * Estilo Android Studio: Nueva paleta de colores para el editor de código. ¡Modding con estilo y menos fatiga visual!
+ * Undo/Redo & Auto-formateo: Historial de cambios incluido. Formateo automático para layout y menu. Para otras carpetas, usa el nuevo botón de formateo manual.
+ * Menú Smali Avanzado: Acceso rápido a Methods y Strings para navegar por el código en segundos.
+🤖 Inteligencia Artificial (Gemini / OpenAI)
+ * Gestión de Chats: Guarda tus conversaciones, crea nuevos hilos y mantén el orden.
+ * Interacción Pro: Mantén presionada cualquier burbuja de chat para desplegar opciones avanzadas de ayuda.
+⚙️ Compilación Inteligente y Auto-Fix
+ * Auto-Fix de Errores: ¿Atributos duplicados o faltantes en APKs pesadas? Si sale error, toca el botón "Fix" en la parte inferior y la app lo soluciona automáticamente.
+ * Smali to Java Optimizado: El sistema busca los IDs y genera código más limpio. Si hay error, salta automáticamente a la descompilación normal para que no te detengas.
+ * Verificación de Firma: Al instalar, la app detecta si la firma es diferente a la ya instalada y te sugiere desinstalar para evitar errores de conflicto.
+🎨 Interfaz y Rendimiento
+ * Scroll Dinámico: Navegación ultra suave y carga de archivos automatizada.
+ * Multimedia XML: Ahora puedes añadir imágenes XML directamente en la parte superior del proyecto.
+ * Compatibilidad: ¡Soporte mejorado para edición de mods de WhatsApp!
+> ⚠️ Mensaje del Desarrollador:
+> Sigo trabajando para hacer la app cada vez más robusta. Si una imagen .9.png te da error al compilar, prueba renombrarla quitando el ".9". Estoy analizando una solución definitiva para esto, pero requiere tiempo. ¡Gracias por el apoyo constante!
+>
 
  Actualización AntiBaneo disponible ",
 "download":"https://t.me/+nLhZrXbMVFM0Yjk5"
