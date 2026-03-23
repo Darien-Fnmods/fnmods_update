@@ -29,7 +29,7 @@ Esta versión no es solo una mejora, es una herramienta profesional de ingenier�
 > Sigo trabajando para hacer la app cada vez más robusta. Si una imagen .9.png te da error al compilar, prueba renombrarla quitando el ".9". Estoy analizando una solución definitiva para esto, pero requiere tiempo. ¡Gracias por el apoyo constante!
 >
 
- Actualización AntiBaneo disponible ",
+  ",
 "download":"https://t.me/+nLhZrXbMVFM0Yjk5"
 }
   ]
